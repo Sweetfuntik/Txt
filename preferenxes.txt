@@ -1,0 +1,4 @@
+Film:Lord of the rings,
+TV series:X Files,
+Favorite food:Fry potatoes,
+Favorite time of the year:Summer,
