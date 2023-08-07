@@ -1,1 +1,11 @@
+"Id": "serial number",
+"Title":"Name of the report",
+"Steps to reproduce": "Way,how to localize a bug",
+"Actual result": "Current result",
+"Expected result" :"Result, which is written in the requirements",
+"Severity": "How much the bug affects  to the system",
+"Priority": "How urgent is the bug to be fixed",
+"Environment": "Version of operation system",
+"Assigne": "Team member to whom the bug is assigned", 
+"Attachments":" Photo or video of the bug"
 
