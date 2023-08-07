@@ -1,2 +1,4 @@
-Name-Bagnenko Vova,
-Age - [A[D [D[D [C[C[C[C[C[C[C[C[C[C[C[C[C: Bagnenko Vova,[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D: 38,
+Name:Bagnenko Vova,
+Age:37,
+Pets:0,
+Salary:500 y.e
